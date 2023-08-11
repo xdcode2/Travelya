@@ -1,6 +1,5 @@
 # TRAVELAY
 
----
 
 ## Responsive travel website
 
@@ -16,5 +15,7 @@
 -   Used Swiper JS
 
 ![Travelya](Travelya.png)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1NMYT7)
 
 Hey bro please don't forget to subscribe to [my channel](https://www.youtube.com/@CodingWeb3 "CodingWeb") and like the [video](https://youtu.be/l8W87RllRks "Responsive Travel Website") 😊😊.
